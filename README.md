@@ -7,7 +7,7 @@ Ao longo dos anos, tive a oportunidade de trabalhar em projetos que moldaram min
 
 - 🌱 Tenho me dedicado a estudar os serviços de cloud com AZURE, no entanto atuo com a plataforma no dia a dia.
 
-- ⚡ Sou membro da congregação cristã do Brasil e sou musico, toco flauta transversal.
+- ⚡ Sirvo a Deus na congregação cristã do Brasil e sou musico, toco flauta transversal.
 
 - 🥇 Certificado : Arquiteto Aspirante na Empresa onde atuo.
 
