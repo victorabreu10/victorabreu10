@@ -1,7 +1,9 @@
-👋 Olá! Eu sou Victor, tenho 23 anos, um apaixonado desenvolvedor .Net com mais de 2 anos de experiência na empolgante área de tecnologia.
+👋 Olá! Eu sou Victor, tenho 24 anos, um apaixonado desenvolvedor .Net com mais de 2 e 8 anos de experiência na empolgante área de tecnologia.
 
 💼 Minha jornada profissional começou com um sólido interesse por programação e uma curiosidade insaciável por desafios técnicos.
 Ao longo dos anos, tive a oportunidade de trabalhar em projetos que moldaram minha compreensão do desenvolvimento de software e me permitiram crescer como profissional.
+
+🚀 Sou formado em Analise e Desenvolvimento de Ssitemas.
 
 🚀 Tenho conhecimentos em : .Net Core, JavaScript, Html, CSS e Sql Server.
 
